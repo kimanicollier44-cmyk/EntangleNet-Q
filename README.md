@@ -1,4 +1,4 @@
-![EntangleNet-Q cover](assets/cover.png)
+![EntangleNet-Q cover](EntangleNet-Q%20cover.png)
 
 # EntangleNet-Q 🌐⚛️
 
